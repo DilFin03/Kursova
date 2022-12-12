@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Курсова 2.0", "Курсова 2.0\Курсова 2.0.csproj", "{5EAFC75C-DCE8-4B79-92DB-82A5DDB9960A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "курсова", "..\курсова\курсова\курсова.csproj", "{5C29CAD0-9B5B-4E48-B028-BC9B5CD991ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EAFC75C-DCE8-4B79-92DB-82A5DDB9960A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAFC75C-DCE8-4B79-92DB-82A5DDB9960A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAFC75C-DCE8-4B79-92DB-82A5DDB9960A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAFC75C-DCE8-4B79-92DB-82A5DDB9960A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C29CAD0-9B5B-4E48-B028-BC9B5CD991ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C29CAD0-9B5B-4E48-B028-BC9B5CD991ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C29CAD0-9B5B-4E48-B028-BC9B5CD991ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C29CAD0-9B5B-4E48-B028-BC9B5CD991ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47CF4450-CB5B-4D55-B9FD-1143C141F4A9}
+	EndGlobalSection
+EndGlobal
